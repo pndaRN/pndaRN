@@ -1,6 +1,10 @@
 ## Hi, I'm Mark Williams 👋
- - I am an ICU nurse that wanted to get into a different type of coding
- - 
+I'm an ICU nurse who decided to get into a different type of coding.
+
+**Recent Projects**
+ - [pndaRN/ABX](https://github.com/pndaRN/ABX) - Learning fundamental gamedev using C/SDL2
+ - [pndaRN/ComplyHealth](https://github.com/pndaRN/ComplyHealth) - MVP for a local startup
+ - [pndaRN/SilentMemoir](https://github.com/pndaRN/SilentMemoir) - TUI journaling application, my first personal project
 
 <!--
 **pndaRN/pndaRN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
