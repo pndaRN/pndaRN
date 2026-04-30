@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Mark Williams 👋
+ - I am an ICU nurse that wanted to get into a different type of coding
+ - 
 
 <!--
 **pndaRN/pndaRN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
